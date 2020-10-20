@@ -1,5 +1,5 @@
 # Engage-A-Tron
-A bot to track engagement of students on the SRND discord server
+A bot to track engagement of students on the CodeDay discord server
 
 
 ### A few notes
